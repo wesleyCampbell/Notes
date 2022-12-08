@@ -1,9 +1,10 @@
-[[Human Origins and Agricultural Centers]]
+[[Human Origins and Agricultural Centers|Back to Human Origins and Agricultural Centers]]
 
 # Agrarian-Urban Centers of the Middle East and Eastern Mediterranean
 
 ---
 
+Tags: #history/ancient
 
 ---
 
@@ -45,7 +46,7 @@ As cities grew, they began to have border disputes. Walls were built, armies wer
 
 Babylonia was the first kingdom to have established written down laws, called the Hammurabi. These laws indicate that early society had an understanding of justice. These laws were weighted to be proportionate between the crime and the punishment. An eye for an eye, etc. Prior to this, towns would typically just deliberate about punishments. 
 
-Sargon "the Great" was the first king known to establish an empire. He ruled over about 2 million people. 
+Sargon "the Great" of the Akkadian Empire was the first king known to establish an empire. He ruled over about 2 million people. 
 
 **Egypt**:
 Egypt's Early Dynastic period was focused on uniting Egypt. The kings claimed divine heritage. Khufu was the first king of Egypt to order the construction of a pyramid. Kings already had claim to people's labor.

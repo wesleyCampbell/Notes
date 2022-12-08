@@ -17,6 +17,11 @@ It is possible that when you learn something, it is physically stored in your br
 
 There is a difference between *maturation* and learning.
 
+>Neurons that fire together, wire together (Donald Hebb)
+
+The simplest form of learning is ***Habituation***. 
+- Ignoring repeated stimuli 
+
 ---
 
 ### Classical Conditioning
@@ -30,6 +35,7 @@ There are stimuluses that can cause responses. In the case of Pavlov's dogs, the
 A definition: Learning to elicit an involuntary response to an unnatural stimulus.
 
 Elements of Classical Conditioning:
+- Orienting Response: Reaction to the change
 - Unconditioned stimulus: There must be a stimulus to hijack
 - Unconditioned response: There must be a natural response to a stimulus
 - Conditioned stimulus: Any stimulus can be associated with the unconditioned stimulus
@@ -93,7 +99,7 @@ Applied behavior: Using conditioning to foster a desired behavior
 
 ---
 
-### Cognitive Learning Theory
+### Cognitive and Social Learning
 
 Studying how human thought influences our learning
 

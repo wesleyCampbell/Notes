@@ -1,4 +1,4 @@
-[[Physics]]
+[[Newtonian Physics]]
 
 # Dimensional Analysis
 

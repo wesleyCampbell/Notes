@@ -1,4 +1,4 @@
-[[Notes/Psychology | Back to Psychology]]
+[[Psychology | Back to Psychology]]
 
 # The Biological Perspective
 
@@ -18,29 +18,16 @@ The brain is the key to understanding much of our psychology, and is the most co
 
 It weights about three pounds, but it uses 30% of the glucose, 25% of the oxygen, 25% of the nutrients, and 1.5 pints/min of blood out of our *entire* body*.
 
-### Learning Objectives:
-1. Identify the parts of a neuron, and each corresponding function
-2. Explain the action potential
-3. How neurons use neurotransmitters to communicate
-4. Describe how lesioning studies and brain stimulation are used to study the brain
-5. Compare neuroimaging techniques for mapping the brain's structure
-6. Identify the structures of the hindbrain 
-7. Identify the structures of the brain that are involved in emotion, learning, memory, and motivation
-8. Identify the parts of the cortex that process the different senses and those that control movement of the body
-9. Recall the function of cortical association areas, including those especially crutcial for language
-10. Explain how some brain functions differ between the left and right hemispheres.
-11. Describe  how the components of the central nervous system interact and how they may respond to experiences or injury
-12. Differentiate the roles of the somatic and autonomic nervous systems
-13. Explain why the pituitary gland is known as the "master gland"
-14. Recall the role of various endocrine glands
-15. Describe how the autonomic nervous system and body are impacted by stress
-16. Identify potential strategies for positively coping with attention-deficit/hyperactivity disorder
+We start out with 100 billion neurons, but we lose roughly 200,000 neurons per day. 
 
 Biological psychology, or behavioral neuroscience, focusses on the biological bases of psychology.
 
 ---
 
 ### Neurons and Neurotransmitters
+
+Neurons are the basic unit.
+Nerves are bundles of axons that travel together.
 
 >Nervous system: a network of cells that carries information to and from all parts of the body.
 
@@ -61,23 +48,89 @@ There are five structures that make up many neurons:
 #testmaterial
 ![[0sob29pk.bmp]]
 
+**Glial Cells**:
+
 The other primary cell is the glial cells (glia). The glia help clean up after and support the neurons. Myelin is produced from special types of glial cells, which is used to protect the nervous system. The "skeleton" of the brain
 
 #testmaterial
-Astrocyte: Collects garbage (dead neurons and extra neurotransmitters) and invaders
-Oligodendrocyte: Makes the myelin sheath
+Micro Glial: Collects garbage (dead neurons and extra neurotransmitters) and invaders
+Oligodendrocyte: Makes the myelin sheath in the brain
+Schwan Cells: Makes the myelin sheath outside the brain
 
 Nodes connect strands of the axon and are *not* protected by the myelin sheath, giving it the appearance of a strand of sausages. 
 
+**Resting Potential**:
 #testmaterial
-When neuron is at rest, it is electrically charged by the ions inside a semiliquid solution inside the cell. They are negatively charged. There are large negatively charged protein ions that are too large to diffuse, leaving the cell negatively charged. Positively charged sodium ions wait outside of the neuron. When the ion channels open, the charge of the neuron reverses, becoming positive and releasing neurotransmitters. This is known as the neuron's *action potential*. Neurons are binary; they are transmitting a signal or they are not.
+When neuron is at rest, it is electrically charged by the ions inside a semiliquid solution inside the cell. There are large negatively charged protein ions that are too large to diffuse inside, leaving the cell negatively charged. Positively charged sodium ions wait outside of the neuron. When the ion channels open, the charge of the neuron reverses, becoming positive and releasing neurotransmitters. This is known as the neuron's *action potential*. Neurons are binary; they are transmitting a signal or they are not. All or nothing, meaning there is a brief recharge period.
+
+During *action potential*, the charges switch. 
+
+Sodium ions are positively charged
+Potassium ions are negatively charged.
+
+For every 3 sodium ions pumped out, 2 potassium ions are pumped in.
+
+When *Repolarization* occurs, there is a *Refractory Period* where the negative charge overcompensates for the positive spike in charge. It overshoots the -70mV that resting potential sits at.
+
+```mermaid
+graph LR;
+a[Resting Potential];
+b[Action Potential];
+c[Repolarization/Refractory Period];
+
+a --> b;
+b --> c;
+c --> a;
+```
 
 ![[ojpvgbgh.bmp]]
 
-When neurotransmitters are released from the neuron, they cross a small fluid-filled space to the dendrites of other neurons. Neurons can either turn cells on (an *excitatory* effect) or turn them off (an *inhibitory* effect). It is the type of synapse that determines which effect a neurotransmitter will have.
+**Diseases of the Brain**:
+- Dementia: extreme loss of brain cells
+	- Alzheimer's is a form of Dementia 
+- Strokes: a blood clot blocks blood going to the brain.
+- Neglect: neglect can also reduce brain size
 
+**Neurotransmitters and Neuromodulators:**
+
+Neurotransmitters are quite fast: get released and sucked back up quickly
+Neuromodulators tend to hang out for a while, not quick.
+
+The vesicles hold the neurotransmitters that are waiting to be used. 
+They will also steal them back if they hang out to long in a process called *Reuptake*.
+
+When neurotransmitters are released from the vesicles in the neuron, they cross a small fluid-filled space to the dendrites of other neurons. Neurons can either turn cells on (an *excitatory* effect) or turn them off (an *inhibitory* effect). It is the type of synapse (synaptic cleft) that determines which effect a neurotransmitter will have.
+
+**Types of neurotransmitters:**
+
+- Acetylcholine: Is the most abundant NT in the body; controls muscle contractions and attention **Excitatory**
+- GABA: Involved in sleep and inhibits movement **Major Inhibitory**
+- Serotonin: Regulates mood **Excitatory**
+- Dopamine: Happy juice **Excitatory or Inhibitory**
+- Glutamate: learning, memory formation, and nervous system development **Major Excitatory**
+- Norepinephrine: control of movement and pleasure **Excitatory**
+- Endorphins: pain relief **inhibitory**
+
+**Two forms of chemicals:**
 - Antagonist: a chemical that blocks or reduces the effects of a neurotransmitter
 - Agonist: A chemical that enhances the effect of a neurotransmitter
+
+**Neuromodulators/Hormones:**
+
+Induce a change in the state of the neurons, leading them to become more or less active.
+Diffuses throughout the body via the bloodstream.
+
+- Controlled by the Pituitary Gland
+- Oxytocin
+	- Can act as both a neurotransmitter and a hormone
+- Cortisol
+	- Stress hormone
+- Testosterone & Estrogen
+	- Motivation, competition, mood, cognition.
+	- Testosterone deals with the sex drive
+
+**Reuptake**
+Process where neurotransmitters are taken back into thy synaptic vesicles. 
 
 ---
 
@@ -119,35 +172,71 @@ To identify the functions of the brain:
 
 ![[4150id2i.bmp]]
 
+
+*The Cortex*: 
+- **Occipital Lobes**:
+	- Processes visual information
+- **Parietal Lobes**:
+	- Processes information from the body; touch, temperature, and position. 
+	- Attention and Daydreaming / plan execution
+	- Spatial location
+- **Temporal Lobes**: 
+	- Processes auditory information
+	- Enters new information as memory
+	- Stores visual memories
+	- Object recognition
+	- Language Centers
+	-  **Wernicke's Area**:
+		- Involved in understanding words' meaning
+- **Frontal Lobes:**:
+	- Higher mental functions. Planning, personality, memory storage, decision making, and language. Also helps control emotions.
+		- **Prefrontal Cortex**: Our ability to consider the future and control our current behavior as such.
+		- **Motor cortex**: Controls voluntary movement.
+	- **Broca's Area**:
+		- Interacts with the different parts of the brain responsible for speech.
+
+
+
 **The Hindbrain**
 
-*The Medulla*: The medulla is located at the top of the spinal column, at the very bottom of the brain. It controls life-sustaining functions such as your heartbeat, breathing, and swallowing. 
+***The Medulla*:** 
+The medulla is located at the top of the spinal column, at the very bottom of the brain. It controls life-sustaining functions such as your heartbeat, breathing, and swallowing. 
 
-*The Pons*: The pons is located just above the medulla. It acts as the bridge between the cerebellum and the upper sections of the brain. It also influences sleep, dreaming, and arousal.
+***The Pons***: 
+The pons is located just above the medulla. It acts as the bridge between the cerebellum and the upper sections of the brain. It also influences sleep, dreaming, and arousal.
 
-*The Reticular Formation (RF)*: A network of neurons running through the center of the medulla, pons, and beyond. The RF allows people to ignore constant information and be aware of changes in information. It also helps keep us alert and aroused. When a danger presents itself, the RF brings us to full attention.
+***The Reticular Formation (RF)***:
+A network of neurons running through the center of the medulla, pons, and beyond. The RF allows people to ignore constant information and be aware of changes in information. It also helps keep us alert and aroused. When a danger presents itself, the RF brings us to full attention.
 
-*The Cerebellum*: At the base of the skull in the rear is the Cerebellum. The cerebellum (little brain) controls all the involuntary, fine motor, and rapid-fire movement. It also coordinates the voluntary movements that happen in rapid succession. This is where learned reflexes and habits are stored. 
+***The Cerebellum*:** 
+At the base of the skull in the rear is the Cerebellum. The cerebellum (little brain) controls all the involuntary, fine motor, and rapid-fire movement. It also coordinates the voluntary movements that happen in rapid succession. This is where learned reflexes and habits are stored. 
 
 **The Forebrain & Midbrain**:
 
 The *Limbic System*:
 - The limbic system is involved in emotions, memory, and learning
-- *The Thalamus*: Processes the senses: hearing, sight, touch, and taste. Passes on the information to the cortex
-- *The Hypothalamus*: Controls body temp, thirst, hunger, sleeping and waking, sexual activity, and emotions.
-- *The Hippocampus*: Forms long-term memories that are stored elsewhere
-- *The Amygdala*: Involved in fear responses and memories of fear. 
-- *The Cingulate Cortex*: Plays a role in emotional and cognitive processing. 
+- ***The Thalamus***:
+	- Processes the senses: hearing, sight, touch, and taste. Passes on the information to the cortex
+- ***The Hypothalamus***:
+	- Controls body temp, thirst, hunger, sleeping and waking, sexual activity, and emotions.
+- ***The Hippocampus***: 
+	- Forms long-term memories that are stored elsewhere. Shaped like a seahorse. HM's removed hippocampus made him *unable* to make new memories. 
+- ***The Amygdala***: 
+	- Involved in fear responses and memories of fear; inner feelings.
+- ***The Cingulate Cortex***:
+	- Plays a role in emotional and cognitive processing. 
+- ***Corpus Callosum***:
+	- Connects the left brain and the right brain
+- ***The Basal Ganglia***:
+	- Overlearned behaviors; habit formation; motivation
 
-*The Cortex*: 
-- *Occipital Lobes*: Processes visual information
-- *Parietal Lobes*: Processes information from the body; touch, temperature, and position. 
-- *Temporal Lobes*: Processes auditory information
-- *Frontal Lobes:*: Higher mental functions. Planning, personality, memory storage, decision making, and language. Also helps control emotions.
-	- *Prefrontal Cortex*: Our ability to consider the future and control our current behavior as such.
-	- *Motor cortex*: Controls voluntary movement.
-- *Broca's Area*: Interacts with the different parts of the brain responsible for speach.
-- *Wernicke's Area*: Involved in understanding words' meaning
+The Cerebral Cortex makes up the bulk of the human brain. It is essentially two brains "wired" together.
+
+**The Strips**:
+- ***The Sensory Strip***:
+	- Controls sensory information
+- ***The Motor Strip***
+	- Controls motor function
 
 ---
 
@@ -156,6 +245,7 @@ The *Limbic System*:
 ![[chu1n6j3.bmp]]
 
 **The Central Nervous System**:
+
 The spinal cord has built-in methods for certain reflexes. For example, if you burn your finger, the signal doesn't go all the way up to the brain first; rather, it will go to an *interneuron* that will send a signal to your hand to move. 
 - Afferent Neurons carry signals from the senses to the spinal chord
 - Efferent neurons carry signals from the spinal cord to the muscles and glands
@@ -168,10 +258,45 @@ The spinal cord has built-in methods for certain reflexes. For example, if you b
 
 *The Autonomic Nervous System*:
 - Controls everything else in the body such as organs, glands, and involuntary muscles.
-- The *Parasympathetic*--Fight or flight: 
+- The *Para-Sympathetic*/*Sympathetic* nervous system--Fight or flight: 
 	- Heart pumps harder
 	- Draws blood away from non-essential organs such as skin
 	- Lungs work overtime
+
+
+```mermaid
+graph TD;
+nerv[Nervous System];
+cent[Centeral Nervous System];
+per[Peripheral Nervous System];
+auto[Autonomic Nervous System];
+som[Somatic Nervous System];
+symp[Sympathetic Nervous System];
+parasymp[Parasympathetic Nervous System];
+motor[Motor System];
+sens[Sensory Nervous System];
+brain[Brain];
+spine[Spinal Cord];
+
+nerv --> cent;
+nerv --> per;
+
+cent --> brain;
+cent --> spine;
+
+per --> auto;
+per --> som;
+
+auto --> symp;
+auto --> parasymp;
+
+som --> motor;
+som --> sens;
+
+
+
+
+```
 
 ---
 

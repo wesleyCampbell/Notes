@@ -1,0 +1,10 @@
+[[Psychology]]
+
+# {{title}}
+
+---
+
+Tags: #psychology 
+
+---
+

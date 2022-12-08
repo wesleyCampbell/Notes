@@ -7,22 +7,46 @@ Tags: #psychology
 
 ---
 
-The study of the mind and our behavior
+The study of mental processes and behavior
 
 ---
 
 ## Early Pioneers of Psychology
 
-- **Wilhelm Wundt**: the first person to apply scientific principles to the study of the human mind. To inspect mind's different elements, his students had to objectively study their own thoughts: a process called *objective introspection*. He is known as the **father of psychology**.
+#### Structuralism
+- **Wilhelm Wundt**: the first person to apply scientific principles to the study of the human mind. To inspect mind's different elements, his students had to objectively study their own thoughts: a process called *objective introspection*. He is known as the **father of psychology**. 
 - **Edward Titchener**: a student of Wundt, he expanded upon his ideas. Rather than asking students to simply describe physical sensations, he utilized objective introspection for thoughts. *Margaret F. Washburn*, one of Titchener's students was the first woman to receive a Ph.D. in psychology. She wrote the book *The Animal Mind*.
+
+#### Functionalism
 - **William James**: a professor at Harvard, James studied on how the mind allows people to function in real life. This viewpoint was called *Functionalism*. He thought that behavioral traits could provide advantages just as physical traits could as well.
 
 Many of these viewpoints are no longer major perspectives in modern psychology, but helped inspire modern psychological theory. 
 
+#### Gestalt Psychology
 - **Max Wertheimer**: believed that the "whole is greater than the sum of its parts." He studied sensation which resulted in *Gestalt psychology*. ***Gestalt psychology*** is now a part of *cognitive psychology*. 
+
+#### Psychoanalysis
 - **Sigmund Freud**: Freud proposed that we have an unconscious mind that we repress our threatening urges and desires into. He proposed that early childhood experiences were significant to us. He had a technique of ***psychoanalysis***, which led to modern *psychotherapy*. 
+
+#### Behaviorism
 - **Ivan Pavlov**: showed that a reflex could be caused by a stimulus that was before unrelated. He had the experiment with the salivating dogs.
 - **John B. Watson:** Watson took Pavlov's findings and founded ***behaviorism***. He thought that we should study only *observable behavior*. While Freud believed that all behavior stemmed from the unconscious mind, Watson believed that all behavior was *learned*. He had the experiment with "Little Albert" who became scared of all fuzzy things. A student of his, *Mary Cover Jones* later proved that counterconditioning was possible.
+- **B.F. Skinner**:
+	- Operant conditioning. 
+
+#### Cognitive:
+- **Piaget**
+
+#### Sociocultural
+- **Vygotsky**: focused on the sociocultural relationships that caused behavior
+
+#### Biopsychological
+
+#### Evolutionary
+- **Darwin**
+
+#### Humanism
+- **Maslow and Rogers**
 
  ![[yyin4la1.bmp]]
 
@@ -45,7 +69,19 @@ The types of phycological professionals:
 
 > Basic Research -- research for the sake of gaining scientific knowledge
 
-> Applied Research -- research aimed at solving real-life problems
+> Applied Research -- Used for selling products. Typically for marketing. 
+
+> Clinical Research -- Medically based; trial and placebo comparison. Typically for medication. 
+
+
+**Types of Professions:**
+- Lay Psychologists
+	- Everyday people who use the principles of psychology
+- Clinical Psychologists:
+	- No medical training, but has a doctorate. Specialized.
+- Psychiatrist:
+	- Has a medical degree and is a physician who specializes in the diagnosis and treatment
+
 
 ---
 
@@ -56,14 +92,21 @@ Making logical, reasoned judgements. Almost all "truths" need to be proven. Evid
 Ethos is not a good enough argument by itself. 
 
 There are four goals of psychology:
-1. Identify
-2. Observe
+1. Description
+	-  What is happening?
+2. Explanation
+	-  Why is it happening
+	-  Theory
 3. Prediction -- is it lawful?
-4. Control nuisance variables
+	-  Will it happen again
+4. Control
+	-  How can it be changed
 
 ---
 
 ## The Scientific Approach
+
+Reduces bias and error
 
 1. **Perceive the Question:** Notice something that we do not understand.
 2. **Form a Hypothesis:** Form an educated guess that you can test.
@@ -101,6 +144,15 @@ There are four goals of psychology:
 		- Response bias or courtesy bias.
 		- Need to be careful about leading questions. 
 
+
+### Forms of Biases
+- Observer Bias:
+	- The tendency of observers to see what they expect to see
+- Sample Bias:
+	- Deals with sample population
+- Response Bias:
+	- Surveys; respondents can be biased
+
 ### Finding Correlation
 
 Standard statistical definition of the correlation coefficient.
@@ -137,3 +189,18 @@ It also removes many moral reasons that had halted research prior. There are sti
 
 
 ![[co1c7dvf.bmp]]
+
+
+---
+
+### Different Views
+
+**Functionalism**:
+- Focused on behavior and functionality
+- William James
+
+**Structuralism**:
+- Focused on the structure of the mind
+- Introspection
+- Processes and Activities
+- Wilhelm Wundt
