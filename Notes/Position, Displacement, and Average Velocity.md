@@ -10,7 +10,7 @@ Tags: #mathematics #physics/newtonian
 
 We use reference frames that are not stationary but are in motion relative to Earth.
 
-We use vectors to describe movement, as they have both direction and magnitude.
+We use [[Vectors|vectors]] to describe movement, as they have both direction and magnitude.
 
 **The Kinematic Equations**:
 - $v = v_0 + at$

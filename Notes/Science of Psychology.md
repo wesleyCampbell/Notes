@@ -106,13 +106,7 @@ There are four goals of psychology:
 
 ## The Scientific Approach
 
-Reduces bias and error
-
-1. **Perceive the Question:** Notice something that we do not understand.
-2. **Form a Hypothesis:** Form an educated guess that you can test.
-3. **Test the Hypothesis:** Test your hypothesis, but be wary of *confirmation bias*.
-4. **Draw Conclusions:** Look at the evidence. The hypothesis will either be supported, or it will not be.
-5. **Report the Results:** Report your conclusion in such a fashion that others can replicate your experiment. Your results could help others, or others could help you with your experimental design. Communication is *key* in the scientific world. 
+[[Notes/The Scientific Method]]
 
 ### The Descriptive Methods (Studies)
 
