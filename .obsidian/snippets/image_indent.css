@@ -1,0 +1,11 @@
+img {
+	position:relative;
+	margin-left:50%;
+	transform: translate(-50%, 0);
+	border-radius: 5px;
+}
+
+.left_align img {
+	margin-left: 0%;
+	transform: translate(0%, 0);
+}

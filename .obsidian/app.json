@@ -1,0 +1,10 @@
+{
+  "promptDelete": false,
+  "livePreview": false,
+  "spellcheck": true,
+  "defaultViewMode": "preview",
+  "attachmentFolderPath": "Assets",
+  "alwaysUpdateLinks": true,
+  "showInlineTitle": false,
+  "newFileLocation": "current"
+}

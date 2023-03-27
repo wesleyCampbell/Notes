@@ -1,0 +1,9 @@
+div3 > h1 ~ div {
+  margin-left: 40px;
+  background-color: #f00;
+}
+
+div:has(h1) {
+  background-color: #f00;
+  border: 3px solid #f00;
+}

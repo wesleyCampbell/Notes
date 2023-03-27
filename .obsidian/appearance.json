@@ -1,0 +1,14 @@
+{
+  "baseFontSize": 16,
+  "enabledCssSnippets": [
+    "mathjax",
+    "section_indents",
+    "test",
+    "indent",
+    "image_indent",
+    "background"
+  ],
+  "accentColor": "",
+  "theme": "obsidian",
+  "cssTheme": ""
+}
