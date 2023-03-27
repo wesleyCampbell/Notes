@@ -46,6 +46,3 @@ However, unlike a gravitational field, electrical fields can have two directions
 
 ![[Pasted image 20230113112259.png]]
 ![[Pasted image 20230113112309.png]]
-
-
-

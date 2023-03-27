@@ -20,10 +20,10 @@ The dimension of a vector is defined in $\Bbb R^n$ format, where $n$ is the dime
 
 ---
 
-###### Unit Vectors
+#### Unit Vectors
 
 A vector is defined as a unit vector if the magnitude of the vector is equal to 1.
-To transform any vector, divide it by its magnitude. 
+To normalize any vector, divide it by its magnitude.
 
 Unit vectors are designated with a hat: 
 $$
@@ -32,7 +32,7 @@ $$
 
 ---
 
-###### Magnitude
+#### Magnitude
 
 The length of a vector, or the norm of a vector is the magnitude of the vector.
 
@@ -42,15 +42,20 @@ $$
 $$
 
 ---
-
-######
-
-
-
----
 ---
 
-## Vector Addition and Subtraction
+## Vector Operations
+
+#### Distance Between Two Vectors
+
+To find the distance between two vectors $\vec u$ and $\vec v$, use the following formula:
+$$
+dist(\vec u, \vec v) = || \vec u - \vec v || 
+$$
+
+---
+
+#### Vector Addition and Subtraction
 
 To add and subtract vectors, simply add each of the corresponding dimensions from each vector:
 
@@ -69,33 +74,17 @@ Additionally, vectors can be added geometrically by putting the tail of one vect
 
 ---
 
-### Linear Combination
+#### Angle Between Two Vectors
 
-Given vectors $\vec v_1 \dots \vec v_n$ and scalars $c_1\dots c_n$, a vector of the form:
-$$ 
-\vec y = c_1\cdot \vec v_1 + c_2\cdot\vec v_2 + \dots + c_n\cdot\vec v_n
+To find the angle between any two vectors, use the following formula:
 $$
-is called a linear combination of the vectors $\vec v_1\dots\vec v_n$ with coefficients $c_1\dots c_n$
-
-
----
----
-
-## Angle Between two Vectors
-
-We can use the formula for the dot product of two vectors to obtain the angle between them:
+\theta = \arccos(\frac{\vec v\cdot\vec u}{||\vec v||\space||\vec u||})
 $$
-\theta = \arccos (\frac{\vec v\cdot\vec u}{||\vec v||\cdot||\vec u||})
-$$
-
-###### Orthogonality
-
-Two vectors are defined as being orthogonal if they have are perpendicular.
+Note that if that $\vec u\cdot \vec v = 0$, the two vectors are orthogonal to one another.
 
 ---
----
 
-## Vector Multiplication
+#### Vector Multiplication
 
 ###### Scalar Multiplication:
 
@@ -104,8 +93,6 @@ To multiply a vector by a scalar, just take each value of the vector and multipl
 $$2\cdot \left[\begin{matrix}4 \\ 3 \\ 5\end{matrix}\right] = \left [ \begin{matrix}8\\6\\10 \end{matrix}\right ]$$
 
 Multiplying a vector with a vector is more complex than multiplying by a scalar.
-
----
 
 ###### Dot Product:
 
@@ -126,7 +113,7 @@ If the dot product of two vectors is equal to 0, this means that the vectors are
 
 Similarly, of the dot product of two vectors is equal to their magnitudes multiplied together, then they are parallel. 
 
-**Algebraic Laws of Dot Product**:
+Algebraic Laws of Dot Product:
 1.  $\vec u\cdot \vec v = \vec v \cdot \vec u$
 2. $(\vec u + \vec v) \cdot \vec w = \vec u\cdot \vec w + \vec v\cdot\vec w$
 3. $(c\vec u)\cdot \vec v = c(\vec u\cdot\vec v) = \vec u\cdot (c\vec v)$

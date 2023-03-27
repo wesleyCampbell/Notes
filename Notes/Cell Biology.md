@@ -10,11 +10,17 @@ Tags: #Biology
 
 ## Cell Theory
 
-The cell is the fundamental unit of an organism
+### Postulates of Cell Theory
 
-Organisms can be anywhere from single-cell to trillions of cells
+1. The cell is the fundamental unit of an organism
 
-All cells come from pre-existing 
+2. Organisms can be anywhere from single-cell to trillions of cells
+
+3. All cells come from pre-existing cells
+
+---
+
+### Types of Cells
 
 ###### Prokaryotic Cells
 - Very simple, comparatively small
@@ -53,9 +59,9 @@ All cells come from pre-existing
 		- Core in the nucleus. Makes the ribosomes for the cell
 - Ribosomes:
 	- Built in the nucleolus move to the cytoplasm and build proteins from amino acids
-- Golgi:
+- Golgi Apparatus:
 	- The fed-ex of the system
-	- Receives, sorts, builds, stores, and send proteins from the ER () to other destinations
+	- Receives, sorts, builds, stores, and send proteins from the ER (Endoplasmic Reticulum) to other destinations
 - Vesicles:
 	- Carry special contents like waste and other proteins along to the cell membranes
 	- Like packages
@@ -72,6 +78,7 @@ All cells come from pre-existing
 		- Calcium storage
 	- Rough ER:
 		- Long chains of ribosomes for protein production attached to ER
+		- Produce proteins
 	- Products are budded off of the ER to the Golgi (the fed-ex of the cell)
 - Mitochondria:
 	- The powerhouse of the cell

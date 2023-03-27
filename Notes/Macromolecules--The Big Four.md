@@ -16,6 +16,7 @@ Carbon is capable of bonding 4 times to something else:
 - Forms long chain-like backbone or hexagonal-type ring
 
 **Carbon Functional Groups**:
+- Bonds to the carbon backbones, participates in chemical reactions such as dehydration synthesis and hydrolysis
 - Monomer:
 	- Single subunits
 - Polymer:
@@ -46,8 +47,12 @@ Carbon is capable of bonding 4 times to something else:
 #### Sugars
 
 Comprised mostly of carbon, hydrogen, and oxygen
+1 carbon to 2 hydrogen to 1 oxygen
+1:2:1
 
 Can be simple (glucose) and they can be complex (starch).
+
+Used for energy storage and structure.
 
 ###### Monosaccharide:
 - One sugar molecule
@@ -69,18 +74,29 @@ Can be simple (glucose) and they can be complex (starch).
 #### Lipids
 
 Comprised of mostly carbon, hydrogen, and oxygen
+Long carbon chains
 
 Hydrophobic; insoluble in water.
 
 Store energy, have waxy covering, membranes.
 
+**Monomer**:
+- Fatty Acids
+
+Hydrophobic tails (don't dissolve in water) and hydrophilic heads.
+Phospholipids!!
+
 ###### Fats:
 - More energy storage than sugars, but weigh less
 - Saturated Fat:
 	- Maximum number of single hydrogen bonds
+	- Full of hydrogen, rigid.
+	- Solid at room temp
 - Unsaturated Fat:
 	- Some double bonds
 	- Oils
+	- Not full of hydrogen, not rigid/kinky
+	- Liquid at room temp
 
 ###### Phospholipids
 - Hydrophobic "tails" and hydrophilic "heads" (cell membranes)
@@ -91,6 +107,10 @@ Store energy, have waxy covering, membranes.
 	- Addition of a methyl
 	- Not much of a chemical difference
 
+Function:
+- Energy storage (more than carbs)
+- Membranes 
+
 ---
 ---
 
@@ -99,21 +119,32 @@ Store energy, have waxy covering, membranes.
 Comprised of carbon, hydrogen, oxygen, nitrogen
 
 The building blocks of Proteins are amino acids
+- Monomer of amino acid
 - Only 20 naturally occurring amino acids
+
+Polymer:
+- Polypeptides
 
 Denaturation:
 - Chemically or thermally breaking protein bonds
+- Can be denatured at high temps (thermal burns) or extreme pH (chemical burns)
 
 ###### Protein Structure
 - Primary Structure:
 	- The order of the amino acids
+	- 1D
 - Secondary Structure:
-	- Folding, bending, or pleating 
+	- Folding, bending, or pleating
+	- Done through hydrogen bonding
+	- 2D shapes (kinda. More used for memorizational purposes)
 - Tertiary Structure:
 	- Hydrogen and disulfide bonds
+	- Fold in on themselves 
+	- 3D shapes
 - Quaternary Structure:
 	- Globular = Hemoglobin
 	- Strands = Collagen
+	- Multiple tertiary structures bonded together
 
 ---
 ---
@@ -122,7 +153,13 @@ Denaturation:
 
 Comprised of mostly carbon, hydrogen, oxygen, nitrogen, phosphorus
 
-Nucleotide is the building block of nucleic acid
+Monomer:
+- Nucleotide
+- Nucleotide is the building block of nucleic acid
+
+Polymer: 
+- DNA
+- RNA
 
 ATP = adenosine triphosphate it a nucleotide. ATP is the fuel that makes you go.
 

@@ -102,3 +102,30 @@ Composers:  #
 - Concertos are limited to 3 movements (Sonata, whatever (slower), and Rondo)
 - Movement One: Sonata:
 	- Orchestra plays the entire exposition (no modulation) then the clarinet plays the exposition and then modulate to the development
+---
+
+#### Sonata Genre
+- Similar to Baroque sonata
+- Either piano solo or piano + orchestral orchestra
+- Typically multi-movements, but not always
+
+---
+
+#### Chamber Music
+- Piano quintet:
+	- Piano + 4 strings
+- All groups labeled with an instrument first have that instrument + a number of strings
+- Wind quintet: 5 winds
+
+---
+
+#### Opera
+- Castrati out of favor. 
+- If they needed a male part, they would use a woman.
+	- Called trouser parts.
+- Ensemble Number:
+	- Differs from Baroque Ensemble Number
+	- Plot moves forward
+	- Each person singing their own thoughts
+	- Hybrid between ensemble number and aria
+	- 

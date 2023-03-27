@@ -150,3 +150,4 @@ The next 1000 years were smaller nomadic and village dwelling life.
 An intricate social caste system, the Dharma, rose up, leading to Buddhism. 
 
 Unlike Mesopotamia and Egypt, no single empire ruled over all of India, **and** the cities thrived for less than 1k years. 
+

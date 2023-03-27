@@ -7,3 +7,5 @@
 - [ ] Add Content for [[Early States of History]] and [[Formation of Religious Civilizations]]
 - [ ] Add content for [[Psychology]]
 - [ ] Reformat [[Newtonian Physics]]
+- [ ] Add Notes for Data Structures and Algorithms
+- [ ] Add notes for Physics of Electric interactions

@@ -25,8 +25,8 @@ Tags: #music
 | [[Music of the Renaissance\|The Renaissance Era]]         | 1400-1600       |
 | [[Notes/Music of the Baroque Era\|The Baroque Era]]       | 1600-1750       |
 | [[Notes/Music of the Classical Era\|The Classical Era]]   | 1750-1830       |
-| The Romantic Era                                          | 1810-1910       |
-| The 20th Century                                          | 1900-2000       |
+| [[Notes/Music of the Romantic Era\|The Romantic Period]]  | 1810-1910       |
+| [[Notes/Music of the 20th Century\|The 20th Century]]     | 1900-2000       |
 | The Contemporary Era                                      | 1960-Today      |
 
 ---
